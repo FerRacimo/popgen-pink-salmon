@@ -52,7 +52,7 @@ Rough estimates of the census population sizes (N<sub>c</sub>).
 ## How to use this document.
 You are reading README.md, a markdown document that decribes the exercise.
 
-About the *.ipynb files.  These are [Jupyter](http://jupyter.org/) notebook files that help organize and communicate the analyses in this exercise.  You can view these (non-interactively) on [Github](https://github.com/rwaples/popgen2017-pink_salmon) or with [NBviewer](https://nbviewer.jupyter.org/github/rwaples/popgen2017-pink_salmon/tree/master/)
+About the *.ipynb files.  These are [Jupyter](http://jupyter.org/) notebook files that help organize and communicate the analyses in this exercise.  You can view these (non-interactively) on [Github](https://github.com/rwaples/popgen2018-pink_salmon).
 
 
 ### Sub-directories
