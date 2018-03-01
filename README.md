@@ -70,7 +70,7 @@ How to run this exercise. Navigate to a desired base directory (maybe ~/popgen20
 We will go over each of these scripts in turn.
 
 ### Getting started
-* Clone or download this repository (to be run in terminal)
+* Clone or download this repository (to be run in terminal from ~/exercises or a similar directory)
 ```
 mkdir popgen2018-pink_salmon
 cd popgen2018-pink_salmon
