@@ -118,7 +118,7 @@ This will create two PCA plots. These plots show the first two PC axes from the 
 * /plots/PCA.pink_salmon.clean.png
 * /plots/PCA.pink_salmon.inital.png
 
- #### Calcaulte LD 
+ #### Calculate LD 
 
 ```bash 
 bash ./scripts/4_calculate_LD.sh
@@ -165,7 +165,13 @@ In these plots yellow is low LD and orange is high LD. You can see the raw r2 va
 * /plots/LD_Puget_EVEN.png
 * /plots/LD_Puget_ODD.png
 
-Also, running the commands in [./do_everything](./do_everything) will create a new directory, download this github repository, and run the entire analysis inside the new directory.
+#### All together
+You can run [./do_everything](./do_everything) run the entire analysis:
+
+``` bash 
+bash ./do_everything
+```
+
 
 ## Questions 
 
