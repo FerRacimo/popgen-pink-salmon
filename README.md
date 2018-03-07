@@ -183,7 +183,7 @@ bash ./do_everything
 ### 1_clean_data
 1. Why exclude loci not placed on a chromosome?
     
-2. Why is it import to consider Hardy-Weinberg equalibrium and the genotyping rate of each locus?
+2. Why is it import to consider Hardy-Weinberg equilibrium and the genotyping rate of each locus?
     
 3. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
 
@@ -194,7 +194,7 @@ bash ./do_everything
 ### 2_do_PCA & 3_plot_PCA
 1. Why is it useful to explore/visualize your data before and after filtering steps?
 
-2. What is shown in by first few axes of the PCA projection? What does each dot represent?
+2. What is shown in the first few axes of the PCA projection? What does each dot represent?
 
 4. Describe the differences between the two PCAs (before and after filtering).  
     * How are they different? 
