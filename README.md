@@ -142,6 +142,11 @@ see: [./scripts/6_plot_Ne_Nc.r](./scripts/6_plot_Ne_Nc.r) to see just the comman
 
 This will create four plots looking at Ne and Nc in the six pink salmon populations.
 
+Each plot can be viewed with 
+```bash
+display [path_to_image]
+```
+
 ##### Barplot of the population-specific effective population size estimates
 * ./plots/Ne estimates.png
 
