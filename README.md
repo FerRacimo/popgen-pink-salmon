@@ -241,3 +241,7 @@ bash ./do_everything
 ## Data sources
 * [Seeb et al 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12769/abstract)
 * [Limborg et al 2014](https://academic.oup.com/jhered/article-lookup/doi/10.1093/jhered/esu063)
+
+### Further reading
+* [Tarpey et al 2017](http://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2017-0023)
+* [Kovach et al 2012](http://rspb.royalsocietypublishing.org/content/279/1743/3870.short)
