@@ -10,7 +10,7 @@ When using Plink to analyze data from non-human species, it is important to tell
 
 
 ```bash
-/home/popgen2016/software/plink --bfile ./data/pink_salmon --autosome-num 26 --not-chr 0 --make-bed --out ./work/pink_salmon.clean
+plink --bfile ./data/pink_salmon --autosome-num 26 --not-chr 0 --make-bed --out ./work/pink_salmon.clean
 ```
 
 ### Create a separate set of genotype data files for each population.
