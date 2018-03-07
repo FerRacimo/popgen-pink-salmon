@@ -14,6 +14,7 @@
 ## Learning outcomes
 * Get confortable with using PLINK for common filtering procedures.
 * Get confortable with using R for data analysis and plotting.
+* Consider the impact that filtering and data quality has on different analyses.
 * Understand the relationship between LD and N<sub>e</sub>.
 * Understand the how N<sub>e</sub> and N<sub>c</sub> vary in natural populations. 
 
