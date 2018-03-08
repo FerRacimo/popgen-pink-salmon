@@ -244,7 +244,7 @@ bash ./do_everything
 
 6. Given time and money how would you improve this analysis - more samples? more loci? more populations?
 
-## Data sources
+## Data sources (please email (ryan.waples@gmail.com) me if you cannot access these papers)
 * [Seeb et al 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12769/abstract)
 * [Limborg et al 2014](https://academic.oup.com/jhered/article-lookup/doi/10.1093/jhered/esu063)
 
