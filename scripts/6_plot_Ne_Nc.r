@@ -26,13 +26,13 @@ for_ratio_barplot = data.matrix(t(estimates[,'ratio']))
 colnames(for_ratio_barplot) = estimates$Pop
 
 
-png('./plots/Ne estimates.png')
+png('./plots/Ne_estimates.png')
 par(mar=c(10,4,4,2))
 barplot(for_barplot['Ne_est',], col = "white", beside = TRUE, las=2, #axes = FALSE, 
        main = "Ne estimates for each population",ylab = 'Ne')
 dev.off()
 
-png('./plots/Ne and Nc estimates.png')
+png('./plots/Ne_and_Nc_estimates.png')
 par(mar=c(10,4,4,2))
 
 barplot(for_barplot, col = c("white","black"), beside = TRUE, las=2, axes = FALSE, 
@@ -45,7 +45,7 @@ legend("top",
 dev.off()
 
 # same plot with a log y axis
-png('./plots/Ne and Nc estimates (log-scaled).png')
+png('./plots/Ne_and_Nc_estimates_log-scaled.png')
 par(mar=c(10,4,4,2))
 barplot(for_barplot, col = c("white","black"), beside = TRUE, las=2, 
         log = 'y', axes = FALSE, ylim = c(100,1400000), 
@@ -57,7 +57,7 @@ legend("top",
 )
 dev.off()
 
-png('./plots/Ne-Nc ratios.png')
+png('./plots/Ne-Nc_ratios.png')
 par(mar=c(10,4,4,2))
 barplot(for_ratio_barplot, col = "gray", beside = TRUE, las=2, #axes = FALSE, 
        main = "Ne/Nc ratios for each population",ylab = 'Ne/Nc ratio')
