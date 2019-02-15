@@ -75,15 +75,15 @@ We will go over each of these scripts in turn.
 ```
 mkdir popgen-pink-salmon
 cd popgen-pink-salmon
-wget https://api.github.com/repos/rwaples/popgen-pink-salmon/tarball/master -O - | tar xz --strip=1
+wget https://api.github.com/repos/FerRacimo/popgen-pink-salmon/tarball/master -O - | tar xz --strip=1
 ```
 **or**
 ```bash
-git clone https://github.com/rwaples/popgen-pink-salmon.git
+git clone https://github.com/FerRacimo/popgen-pink-salmon.git
 ```
 
 **or**
-* go to the [repository](https://github.com/rwaples/popgen-pink-salmon) on Github and click **Clone or download** and then **Download ZIP**.  Download and unzip the repository in the appropriate directory.  Notice the name of the directory might have a 'master' suffix.
+* go to the [repository](https://github.com/FerRacimo/popgen-pink-salmon) on Github and click **Clone or download** and then **Download ZIP**.  Download and unzip the repository in the appropriate directory.  Notice the name of the directory might have a 'master' suffix.
 
 
 ### Running the analyses
