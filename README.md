@@ -1,5 +1,5 @@
 # Estimation of contemporary effective population size in pink salmon
-## Population Genetics 2018, University of Copenhagen
+## Population Genetics 2019, University of Copenhagen
 ##### Author: Ryan Waples ryan.waples@gmail.com
 
 
@@ -53,7 +53,7 @@ Rough estimates of the census population sizes (N<sub>c</sub>).
 ## How to use this document.
 You are reading README.md, a markdown document that decribes the exercise.
 
-About the *.ipynb files.  These are [Jupyter](http://jupyter.org/) notebook files that help organize and communicate the analyses in this exercise.  You can view these (non-interactively) on [Github](https://github.com/rwaples/popgen2018-pink_salmon).
+About the *.ipynb files.  These are [Jupyter](http://jupyter.org/) notebook files that help organize and communicate the analyses in this exercise.  You can view these (non-interactively) on [Github](https://github.com/FerRacimo/popgen-pink-salmon).
 
 
 ### Sub-directories
@@ -73,22 +73,22 @@ We will go over each of these scripts in turn.
 ### Getting started
 * Clone or download this repository (to be run in terminal from ~/exercises or a similar directory)
 ```
-mkdir popgen2018-pink_salmon
-cd popgen2018-pink_salmon
-wget https://api.github.com/repos/rwaples/popgen2018-pink_salmon/tarball/master -O - | tar xz --strip=1
+mkdir popgen-pink-salmon
+cd popgen-pink-salmon
+wget https://api.github.com/repos/rwaples/popgen-pink-salmon/tarball/master -O - | tar xz --strip=1
 ```
 **or**
 ```bash
-git clone https://github.com/rwaples/popgen2018-pink_salmon.git
+git clone https://github.com/rwaples/popgen-pink-salmon.git
 ```
 
 **or**
-* go to the [repository](https://github.com/rwaples/popgen2018-pink_salmon) on Github and click **Clone or download** and then **Download ZIP**.  Download and unzip the repository in the appropriate directory.  Notice the name of the directory might have a 'master' suffix.
+* go to the [repository](https://github.com/rwaples/popgen-pink-salmon) on Github and click **Clone or download** and then **Download ZIP**.  Download and unzip the repository in the appropriate directory.  Notice the name of the directory might have a 'master' suffix.
 
 
 ### Running the analyses
 
-From with the directory you with use for the exercise (maybe ~/exercises/popgen2018-pink_salmon):
+From with the directory you with use for the exercise (maybe ~/exercises/popgen-pink-salmon):
 
 #### Download the pink genotype and census-size data.
 ```bash 
