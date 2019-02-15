@@ -116,8 +116,15 @@ see: [./scripts/3_plot_PCA.r](./scripts/3_plot_PCA.r) to see just the commands t
 
 This will create two PCA plots. These plots show the first two PC axes from the inital and post-filtering data sets of the six populations.
 
-* /plots/PCA.pink_salmon.clean.png
-* /plots/PCA.pink_salmon.inital.png
+* ./plots/PCA.pink_salmon.clean.png
+* ./plots/PCA.pink_salmon.inital.png
+
+To see the first file, for example, you can type:
+
+``` bash 
+display ./plots/PCA.pink_salmon.clean.png
+```
+
 
  #### Calculate LD 
 
