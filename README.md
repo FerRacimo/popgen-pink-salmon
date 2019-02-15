@@ -140,7 +140,7 @@ Rscript ./scripts/5_estimate_Ne.r
 ```
 see: [./scripts/5_estimate_Ne.r](./scripts/5_estimate_Ne.r) to see just the commands that are executed, or see [./5_estimate_Ne.ipynb](./5_estimate_Ne.ipynb) for an anotated version that describes each line.
 
-Becuase it can be very computationally intensive, I have omitted calculating confidence intervals for the Ne estiamtes, with a bootstrap or jackknife procedure.  There is still research into the best was to provide accurate confidence intervals with the LD method of estimating Ne.  See [this paper](http://www.nature.com/hdy/journal/v117/n4/full/hdy201619a.html) and also [this paper](http://www.nature.com/hdy/journal/v117/n4/full/hdy201660a.html) for some discussion of this issue.
+Becuase it can be very computationally intensive, I have omitted calculating confidence intervals for the Ne estimates, with a bootstrap or jackknife procedure.  There is still research into the best was to provide accurate confidence intervals with the LD method of estimating Ne.  See [this paper](http://www.nature.com/hdy/journal/v117/n4/full/hdy201619a.html) and also [this paper](http://www.nature.com/hdy/journal/v117/n4/full/hdy201660a.html) for some discussion of this issue.
 
 #### Plot the Ne and Nc estimates
 ```bash
@@ -156,18 +156,18 @@ display [path_to_image]
 ```
 
 ##### Barplot of the population-specific effective population size estimates
-* ./plots/Ne estimates.png
+* ./plots/Ne_estimates.png
 
 
 ##### Barplot of the population-specific effective and census population size estimates
 You can see how large some populations are in absolute number.
-* ./plots/Ne and Nc estimates.png
+* ./plots/Ne_and_Nc_estimates.png
 
 ##### A log-scaled version of the above plot.
-* ./plots/Ne and Nc estimates (log-scaled).png
+* ./plots/Ne_and_Nc_estimates_log-scaled.png
 
 ##### Looking at the Ne/Nc ratios
-* ./plots/Ne-Nc ratios.png
+* ./plots/Ne-Nc_ratios.png
 
 #### And also a heatmap of the r^2 matrix used in the Ne estimate
 In these plots yellow is low LD and orange is high LD. You can see the raw r2 values in your ./work/Puget_EVEN.ld and similar files.
