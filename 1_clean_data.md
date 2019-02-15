@@ -6,7 +6,7 @@ All commands to be run in the terminal
 ### Remove loci not placed on a chromosome.  
 Create a new data set (in ./work/) only including loci that are placed on one of the 26 chromsomes in pink salmon. Call it "pink_salmon.clean".  The --make-bed command tells Plink to create pink_salmon.bed (binary file with genotype data), pink_salmon.bim (text with locus information ) and ./pink_salmon.fam (text file with sample information) files.
 
-When using Plink to analyze data from non-human species, it is important to tell Plink to not interpret chromosome "23" as the X chromosome chromosome "24" as the Y chromsome. 
+When using Plink to analyze data from non-human species, it is important to tell Plink to not interpret chromosome "23" as the X chromosome and chromosome "24" as the Y chromsome. 
 
 
 ```bash
