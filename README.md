@@ -227,23 +227,23 @@ bash ./do_everything
 
 1. Which lineage of pink salmon has higher N<sub>e</sub> in the north, south, and middle of the range?
 
-2. Which population do you expect to have the most genetic drift, the least?
+2. Which population do you expect to have the most genetic drift? Which ones do you expect to have the least?
 
-3. Which population of pink salmon has the most LD, the least?
+3. Which population of pink salmon has the most LD? Which one has the least?
 
 4. What do think the effect of the Puget_EVEN individual that is projected near the the Koppen_EVEN individuals on estimates of Ne? 
    * in Puget_EVEN?
    * in Koppen_EVEN?
    
-5. What more would you like to know about the pink salmon populations in order to understand the Ne/Nc ratios?
+5. What more would you want to research about the pink salmon populations in order to understand the Ne/Nc ratios?
 
 ### Perspectives
 
-1. What is the difference between a populations N<sub>e</sub> and N<sub>c</sub>.  Why are both important when seeking to underestand population dynamics?
+1. What is the difference between a population's N<sub>e</sub> and N<sub>c</sub>.  Why are both important when seeking to underestand population dynamics?
 
 2. Can you calculate the realtive signal (due to Ne) and the noise (due to sample size?) in the mean r2 value? 
 
-3. Say you sampled an addition individual that was a sibling of an individual already in your population samples.  How woud this affect your Ne estimates? 
+3. Say you sampled an additional individual that was a sibling of an individual already present in your population samples.  How woud this affect your N<sub>e</sub> estimates? 
 
 4. How would recent migration into a population affect estimates of LD and N<sub>e</sub>?
 
