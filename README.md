@@ -191,7 +191,7 @@ bash ./do_everything
 ### 1_clean_data
 1. Why exclude loci not placed on a chromosome?
     
-2. Why is it import to consider Hardy-Weinberg equilibrium and the genotyping rate of each locus?
+2. Why is it important to consider Hardy-Weinberg equilibrium and the genotyping rate of each locus?
     
 3. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
 
