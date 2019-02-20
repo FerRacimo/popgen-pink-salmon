@@ -189,53 +189,46 @@ bash ./do_everything
 ## Questions 
 
 ### 1_clean_data
-1. Why exclude loci not placed on a chromosome?
-    
-2. Why is it important to consider Hardy-Weinberg equilibrium and the genotyping rate of each locus?
-    
-3. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
+        
+1. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
 
-4. Does the genotyping rate differ between the popuations?
+2. Does the genotyping rate differ between the popuations?
+
+3. Why is it important to consider the genotyping rate of each locus?
 
 4. Why is it important to separate each population when calculating LD?
     
 ### 2_do_PCA & 3_plot_PCA
-1. Why is it useful to explore/visualize your data before and after filtering steps?
 
-2. What is shown in the first few axes of the PCA projection? What does each dot represent?
+1. What is shown in the first few axes of the PCA projection? What does each dot represent?
 
-4. Describe the differences between the two PCAs (before and after filtering).  
+2. Describe the differences between the two PCAs (before and after filtering).  
     * How are they different? 
     * How are they similar?
 
-4. Why do you think there is a Puget_EVEN individual that is projected near the the Koppen_EVEN individuals?
+3. Why do you think there is a Puget_EVEN individual that is projected near the the Koppen_EVEN individuals?
     * Give a possible biological explanation
     * Give a possible laboratory explanation  
     
-5. Here we analyzed all six populations together.  Would it have been useful to perform PCA on the data from each population separately?
+4. Here we analyzed all six populations together. Would it have been useful to perform PCA on the data from each population separately? What would that reveal?
     
 ### 4_calculate_r2
+
 1. What does the r<sup>2</sup> statistic measure?  How is r<sup>2</sup> related to D?
 
-2. Why is it often important to remove very low frequency alleles when measuring LD?
+2. How would our estimates of LD have changed if we did not exclude locus pairs on the same chromosome?
 
-3. How would our estimates of LD have changed if we did not exclude locus pairs on the same chromosome?
-
-4. How is LD affected by sample size?  
+3. How is LD affected by sample size?  
   
 ### 5_estimate_Ne & 6_plot_Ne
 
 1. Which lineage of pink salmon has higher N<sub>e</sub> in the north, south, and middle of the range?
 
-2. Which population do you expect to have the most genetic drift? Which ones do you expect to have the least?
+2. Based on your estimates of effective population size, which population do you expect to have be most affected by genetic drift? Which ones do you expect to be the least affected?
 
 3. Which population of pink salmon has the most LD? Which one has the least?
 
-4. What do think the effect of the Puget_EVEN individual that is projected near the the Koppen_EVEN individuals on estimates of Ne? 
-   * in Puget_EVEN?
-   * in Koppen_EVEN?
-   
-5. What more would you want to research about the pink salmon populations in order to understand the Ne/Nc ratios?
+4. What more would you want to research about the pink salmon populations in order to understand the Ne/Nc ratios?
 
 ### Perspectives
 
@@ -247,9 +240,7 @@ bash ./do_everything
 
 4. How would recent migration into a population affect estimates of LD and N<sub>e</sub>?
 
-5. How does this analysis compare to the LD analysis in Mountain and Western Lowland Gorillas?  Do these analyses measure the same thing? 
-
-6. Given time and money how would you improve this analysis - more samples? more loci? more populations?
+5. Given time and money how would you improve this analysis - more samples? more loci? more populations?
 
 ## Data sources 
 (please email (ryan.waples@gmail.com) me if you cannot access these papers)
