@@ -1,4 +1,4 @@
-# Estimation of contemporary effective population size in pink salmon
+# Estimation of recent effective population size in pink salmon
 ## Population Genetics 2019, University of Copenhagen
 ##### Author: Ryan Waples ryan.waples@gmail.com
 
