@@ -234,13 +234,11 @@ bash ./do_everything
 
 1. What is the difference between a population's N<sub>e</sub> and N<sub>c</sub>.  Why are both important when seeking to underestand population dynamics?
 
-2. Can you calculate the realtive signal (due to Ne) and the noise (due to sample size?) in the mean r2 value? 
+2. Can you calculate the relative signal (due to Ne) and the noise (due to sample size?) in the mean r2 value? 
 
-3. Say you sampled an additional individual that was a sibling of an individual already present in your population samples.  How woud this affect your N<sub>e</sub> estimates? 
+3. How would recent migration into a population affect estimates of LD and N<sub>e</sub>?
 
-4. How would recent migration into a population affect estimates of LD and N<sub>e</sub>?
-
-5. Given time and money how would you improve this analysis - more samples? more loci? more populations?
+4. Given time and money how would you improve this analysis - more samples? more loci? more populations?
 
 ## Data sources 
 (please email (ryan.waples@gmail.com) me if you cannot access these papers)
