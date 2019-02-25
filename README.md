@@ -19,7 +19,7 @@
 * Understand the how N<sub>e</sub> and N<sub>c</sub> vary in natural populations. 
 
 ## Background reading (Nielsen and Slatkin)
-* Wright-Fischer Model: p. 22-27
+* Wright-Fisher Model: p. 22-27
 * Effective population size: p. 43-46
 * Linkage Disequilibrium: p. 108-112, including boxes 6.1-6.3
 
