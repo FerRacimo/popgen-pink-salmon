@@ -90,12 +90,6 @@ git clone https://github.com/FerRacimo/popgen-pink-salmon.git
 
 From with the directory you with use for the exercise (maybe ~/exercises/popgen-pink-salmon):
 
-#### Download the pink genotype and census-size data.
-```bash 
-bash ./scripts/0_get_data.sh 
-```
-see: [./scripts/0_get_data.sh](./scripts/0_get_data.sh) to see the commands that are executed, or see [./0_get_data.md](./0_get_data.md) for an anotated version that describes what is going on.
-
 #### Filter the data 
 ```bash
 bash ./scripts/1_clean_data.sh 
