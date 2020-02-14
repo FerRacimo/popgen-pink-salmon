@@ -165,12 +165,12 @@ You can see how large some populations are in absolute number.
 
 #### And also a heatmap of the r^2 matrix used in the Ne estimate
 In these plots yellow is low LD and orange is high LD. You can see the raw r2 values in your ./work/Puget_EVEN.ld and similar files.
-* /plots/LD_Koppen_EVEN.png
-* /plots/LD_Koppen_ODD.png
-* /plots/LD_Nome_EVEN.png
-* /plots/LD_Nome_ODD.png
-* /plots/LD_Puget_EVEN.png
-* /plots/LD_Puget_ODD.png
+* ./plots/LD_Koppen_EVEN.png
+* ./plots/LD_Koppen_ODD.png
+* ./plots/LD_Nome_EVEN.png
+* ./plots/LD_Nome_ODD.png
+* ./plots/LD_Puget_EVEN.png
+* ./plots/LD_Puget_ODD.png
 
 #### All together
 You can run [./do_everything](./do_everything) run the entire analysis:
