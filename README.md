@@ -212,7 +212,7 @@ bash ./do_everything
 
 2. How would our estimates of LD have changed if we did not exclude locus pairs on the same chromosome?
 
-3. How is LD affected by sample size?  
+3. How is our estimate of LD affected by sample size?  
   
 ### 5_estimate_Ne & 6_plot_Ne
 
