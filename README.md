@@ -184,9 +184,11 @@ bash ./do_everything
 
 ### 1_clean_data
         
-1. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
+1. Check the text produced by running plink on your files. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
 
-2. Why is it important to separate each population when calculating LD?
+2. Check the text produced by running plink on your files. What are the reasons that some variants are removed in this filtering step? Why do you think it’s important to remove them? See here for an explanation of all the filters implemented in plink: https://www.cog-genomics.org/plink/1.9/filter
+
+3. Why is it important to separate each population before calculating LD?
     
 ### 2_do_PCA & 3_plot_PCA
 
