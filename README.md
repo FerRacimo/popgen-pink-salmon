@@ -186,11 +186,7 @@ bash ./do_everything
         
 1. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
 
-2. Does the genotyping rate differ between the popuations?
-
-3. Why is it important to consider the genotyping rate of each locus?
-
-4. Why is it important to separate each population when calculating LD?
+2. Why is it important to separate each population when calculating LD?
     
 ### 2_do_PCA & 3_plot_PCA
 
