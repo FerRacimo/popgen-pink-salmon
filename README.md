@@ -218,9 +218,7 @@ bash ./do_everything
 
 2. Based on your estimates of effective population size, which population do you expect to have be most affected by genetic drift? Which ones do you expect to be the least affected?
 
-3. Which population of pink salmon has the most LD? Which one has the least?
-
-4. What more would you want to research about the pink salmon populations in order to understand the Ne/Nc ratios?
+3. What more would you want to research about the pink salmon populations in order to understand the Ne/Nc ratios?
 
 ### Perspectives
 
