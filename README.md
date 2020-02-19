@@ -98,7 +98,7 @@ see: [./scripts/1_clean_data.sh](./scripts/1_clean_data.sh) to see the commands 
 
 #### Perform PCA on data before and after filtering
 
-We'll perform a principal component analysis (PCA) on our genetic data. PCAs are a way of summarizing large multi-dimensional datasets into a few axes of variation (we'll cover them in more detail next week). In this case, we have many dimensions (thousands of loci) and the frequencies of particular alleles at each of these loci all carry some information about the average genetic relationships between the individuals we are studying. We'll try to summarize this large quantity of information into the two strongest axes of variation (principal component 1 and principal component 2), which we will then plot, so as to understand how our indivduals are related to each other.
+We'll perform a principal component analysis (PCA) on our genetic data. PCAs are a way of summarizing large multi-dimensional datasets into a few axes of variation (we'll cover them in more detail next week). In this case, we have many dimensions (thousands of loci) and the frequencies of particular alleles at each of these loci all carry some information about the average genetic relationships between the individuals we are studying. We'll try to summarize this large quantity of information into the two strongest axes of variation (principal component 1 and principal component 2), which we will then plot, so as to understand how our individuals are related to each other.
 
  ```bash
 bash ./scripts/2_do_PCA.sh
