@@ -187,7 +187,7 @@ bash ./do_everything
 
 ### 1_clean_data
         
-1. Check the text produced by running plink on your files. What are the sample sizes and number of loci used in the analysis of each population, why do they differ?
+1. Check the output text produced by running plink on your files. What are the salmon sample sizes and number of genetic loci used in the analysis of each population, why do they differ?
 
 2. Check the text produced by running plink on your files. What are the reasons that some variants are removed in this filtering step? Why do you think it’s important to remove them? See here for an explanation of all the filters implemented in plink: https://www.cog-genomics.org/plink/1.9/filter
 
@@ -221,15 +221,13 @@ bash ./do_everything
 
 2. Based on your estimates of effective population size, which population do you expect to have be most affected by genetic drift? Which ones do you expect to be the least affected?
 
-3. What more would you want to research about the pink salmon populations in order to understand the Ne/Nc ratios?
-
 ### Perspectives
 
 1. What is the difference between a population's N<sub>e</sub> and N<sub>c</sub>.  Why are both important when seeking to underestand population dynamics?
 
 2. Can you calculate the relative signal (due to Ne) and the noise (due to sample size?) in the mean r2 value? 
 
-3. Given time and money how would you improve this analysis - more samples? more loci? more populations?
+3. Given time and money how would you improve this analysis - more samples? more loci? more populations? What more would you want to research about the pink salmon populations in order to understand the Ne/Nc ratios?
 
 ## Data sources 
 * [Seeb et al 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12769/abstract)
