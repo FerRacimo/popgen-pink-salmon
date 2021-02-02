@@ -229,9 +229,7 @@ bash ./do_everything
 
 2. Can you calculate the relative signal (due to Ne) and the noise (due to sample size?) in the mean r2 value? 
 
-3. How would recent migration into a population affect estimates of LD and N<sub>e</sub>?
-
-4. Given time and money how would you improve this analysis - more samples? more loci? more populations?
+3. Given time and money how would you improve this analysis - more samples? more loci? more populations?
 
 ## Data sources 
 * [Seeb et al 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12769/abstract)
