@@ -1,7 +1,6 @@
 # Estimation of recent effective population size in pink salmon
 ## Population Genetics 2022, University of Copenhagen
-##### Modified from an exercise originally written by Ryan Waples (ryan.waples@gmail.com).
-
+##### Modified from an exercise originally written by Ryan Waples.
 
 ## Program
 * Download pink salmon data, apply filters. (`Plink`)
