@@ -178,7 +178,7 @@ In these plots yellow is low LD and orange is high LD. You can see the raw r2 va
 * ./plots/LD_Puget_ODD.png
 
 #### All together
-You can run [./do_everything](./do_everything) run the entire analysis:
+You can run [./do_everything](./do_everything) to re-run the entire analysis:
 
 ``` bash 
 bash ./do_everything
