@@ -96,7 +96,7 @@ Now go back to the main directory (maybe ~/exercises/popgen-pink-salmon or somew
 ```bash
 bash ./scripts/1_clean_data.sh 
 ```
-see: [./scripts/1_clean_data.sh](./scripts/1_clean_data.sh) to see the commands that are executed, or see [./1_clean_data.md](./1_clean_data.md) for an anotated version that describes each line.
+Wow! A whole lot of text just got dumped into your terminal. See: [./scripts/1_clean_data.sh](./scripts/1_clean_data.sh) to see the commands that were just executed, or see [./1_clean_data.md](./1_clean_data.md) for an anotated version that describes each line. Essentially, a program called plink just took each of the salmon population panel files and applied some filters to clean them up. See if you can figure out what each of the filters did. Otheriwse, talk to your patner or ask you instructor.
 
 #### Perform PCA on the data before and after filtering
 
