@@ -123,6 +123,7 @@ To see the first file, for example, you can type:
 display ./plots/PCA.pink_salmon.clean.png
 ```
 
+What would you type to see the second file? Try and compare the two figures.
 
  #### Calculate LD 
 
