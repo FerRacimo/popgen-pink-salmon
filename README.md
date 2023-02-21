@@ -70,14 +70,16 @@ We will go over each of these scripts in turn.
 
 ### Getting started
 * Clone or download this repository (to be run in terminal from ~/exercises or a similar directory)
-```
-mkdir popgen-pink-salmon
+
+```bash
+git clone https://github.com/FerRacimo/popgen-pink-salmon.git
 cd popgen-pink-salmon
-wget https://api.github.com/repos/FerRacimo/popgen-pink-salmon/tarball/master -O - | tar xz --strip=1
 ```
 **or**
 ```bash
-git clone https://github.com/FerRacimo/popgen-pink-salmon.git
+mkdir popgen-pink-salmon
+cd popgen-pink-salmon
+wget https://api.github.com/repos/FerRacimo/popgen-pink-salmon/tarball/master -O - | tar xz --strip=1
 ```
 
 **or**
