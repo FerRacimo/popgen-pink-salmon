@@ -34,8 +34,8 @@ head(pca_clean)
 
 # Make some plots and save them to a file
 
-png("./plots/PCA.pink_salmon.inital.png")
-plot_pca_basic(pca_initial, title = 'pink_salmon.inital')
+png("./plots/PCA.pink_salmon.initial.png")
+plot_pca_basic(pca_initial, title = 'pink_salmon.initial')
 dev.off()
 
 png("./plots/PCA.pink_salmon.clean.png")
